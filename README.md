@@ -33,7 +33,7 @@ In 2015 I founded the Microsoft sponsored [London's Beginners Machine Learning (
 Since, then the group has grown to 1200+ members. 
 As an instructor of the group, I teach data science, machine learning and cloud computing technologies to other professionals/researchers and am interested in their application to impactful problems.
 
-Additionally, I've also led 3 cohorts of [Code First Girls](https://codefirstgirls.com/)' 4-months intensive software engineering bootcamps to help career switcher professional women break into tech.
+Additionally, I've also led 3 cohorts of [Code First Girls](https://codefirstgirls.com/)' 4-months intensive software engineering bootcamps to help professional women switch careers into tech.
 
 You can find a list of my workshops below. Feel free to fork and adopt them for your own workshops or go through them at your own pace to learn the technologies involved.
 
