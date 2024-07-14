@@ -1,4 +1,4 @@
-## 👋 Software engineer and Educator
+## 👋 Software engineer and educator
 
 Hello, I'm Ali Parandeh 👋.
 
