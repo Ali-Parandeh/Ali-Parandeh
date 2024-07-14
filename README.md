@@ -11,11 +11,18 @@ My current and past clients include: Network Rail, High Speed Train 2, Heathrow 
 
 My interests change over time but at the moment they include AI development, entrepreneurship, education and game development.
 
+### 📚 Authoring O'Reilly book: Building Generative AI Services with FastAPI
+My book *Building Generative AI Services with FastAPI* will be published worldwide on **March 2025**.   
+
+You can read the early release chapters of the book by clicking on the image below.
+
+[<img alt="Building Generative AI Services with FastAPI (O'Reilly)" src="https://learning.oreilly.com/covers/urn:orm:book:9781098160296/400w/" />](https://learning.oreilly.com/library/view/building-generative-ai/9781098160296/)
+
 ### 🌱 Open-source projects
 
 I love Typescript and Python so most of my open-source projects are either in Python or Typescript frameworks.
 
-- [Raycast ClickUp Tasks Explorer Extension](https://www.raycast.com/aparandeh/manage-clickup-tasks): A raycast launcher plugin to help you quickly view and manage your ClickuP tasks from the comfort of your desktop
+- [Raycast ClickUp Tasks Explorer Extension](https://www.raycast.com/aparandeh/manage-clickup-tasks): A raycast launcher plugin to help you quickly view and manage your ClickUp tasks from the comfort of your desktop
 - [Raycast Google Books Extension](https://www.raycast.com/aparandeh/google-books): A raycast launcher plugin to help you quickly browser Google books from the comfort of your desktop
 
 ### 🧑‍🏫 Workshops and Education
@@ -36,12 +43,4 @@ You can find a list of my workshops below. Feel free to fork and adopt them for 
 - Learn Computer Vision Basics with OpenCV in Python - [Github Repo Link](https://github.com/beginners-machine-learning-london/computer_vision_basics)
 - Introduction to Convolutional Neural Networks (CNNs) - [Github Repo Link](https://github.com/beginners-machine-learning-london/intro-to-cnn-p1/)
 - Learn to listen to live data feeds in Python - [Github Repo Link](https://github.com/beginners-machine-learning-london/intro-live-data-feed)
-
-
-### 📚 Authoring O'Reilly book: Building Generative AI Services with FastAPI
-My book *Building Generative AI Services with FastAPI* will be published worldwide on **March 2025**.   
-
-You can read the early release chapters of the book by clicking on the image below.
-
-[<img alt="Building Generative AI Services with FastAPI (O'Reilly)" src="https://learning.oreilly.com/covers/urn:orm:book:9781098160296/400w/" />](https://learning.oreilly.com/library/view/building-generative-ai/9781098160296/)
 
