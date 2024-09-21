@@ -16,7 +16,7 @@ My book *Building Generative AI Services with FastAPI* will be published worldwi
 
 You can read the early release chapters of the book by clicking on the image below.
 
-[<img alt="Building Generative AI Services with FastAPI (O'Reilly)" src="https://learning.oreilly.com/covers/urn:orm:book:9781098160296/400w/" />](https://learning.oreilly.com/library/view/building-generative-ai/9781098160296/)
+[<img alt="Building Generative AI Services with FastAPI (O'Reilly)" src="/cover.png" />](https://learning.oreilly.com/library/view/building-generative-ai/9781098160296/)
 
 ### 🌱 Open-source projects
 
