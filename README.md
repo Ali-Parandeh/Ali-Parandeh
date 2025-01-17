@@ -14,10 +14,13 @@ My interests change over time but at the moment they include AI development, ent
 ### 📚 Authoring O'Reilly book: Building Generative AI Services with FastAPI
 My book *Building Generative AI Services with FastAPI* will be published worldwide on **March 2025**.   
 
-You can read the early release chapters of the book by clicking on the image below.
+You can pre-order the book by clicking on the image below.
 
-[<img alt="Building Generative AI Services with FastAPI (O'Reilly)" width="400" src="/cover.png" />](https://learning.oreilly.com/library/view/building-generative-ai/9781098160296/)
+Amazon US: [Link}(https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
+Amazon UK: [Link](https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
+Read Early Release Chapters on O'Reilly: [Link](https://www.oreilly.com/library/view/building-generative-ai/9781098160296/)
 
+[<img alt="Building Generative AI Services with FastAPI (O'Reilly)" width="400" src="/cover.png" />](https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
 ### 🌱 Open-source projects
 
 I love Typescript and Python so most of my open-source projects are either in Python or Typescript frameworks.
