@@ -16,7 +16,7 @@ My book *Building Generative AI Services with FastAPI* will be published worldwi
 
 You can pre-order the book by clicking on the image below.
 
-Amazon US: [Link}(https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
+Amazon US: [Link](https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
 Amazon UK: [Link](https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
 Read Early Release Chapters on O'Reilly: [Link](https://www.oreilly.com/library/view/building-generative-ai/9781098160296/)
 
