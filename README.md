@@ -12,7 +12,7 @@ My current and past clients include: Network Rail, High Speed Train 2, Heathrow 
 My interests change over time but at the moment they include AI development, entrepreneurship, education and game development.
 
 ### 📚 Authoring O'Reilly book: Building Generative AI Services with FastAPI
-My book *Building Generative AI Services with FastAPI* will be published worldwide on **March 2025**.   
+My book *Building Generative AI Services with FastAPI* will be published worldwide on **May 2025**.
 
 You can pre-order the book by clicking on the image below.
 
@@ -20,7 +20,11 @@ Amazon US: [Link](https://www.amazon.com/Building-Generative-Services-Fastapi-Ap
 
 Amazon UK: [Link](https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
 
-Read Early Release Chapters on O'Reilly: [Link](https://www.oreilly.com/library/view/building-generative-ai/9781098160296/)
+Read online on O'Reilly: [Link](https://www.oreilly.com/library/view/building-generative-ai/9781098160296/)
+
+📚 Book Repository: [Link](https://github.com/Ali-Parandeh/building-generative-ai-services)
+
+🌍 Book Website: [Link](https://buildinggenai.com)
 
 [<img alt="Building Generative AI Services with FastAPI (O'Reilly)" width="400" src="/cover.png" />](https://www.amazon.com/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
 ### 🌱 Open-source projects
