@@ -26,7 +26,7 @@ Read online on O'Reilly: [Link](https://www.oreilly.com/library/view/building-ge
 
 🌍 Book Website: [Link](https://buildinggenai.com)
 
-[<img alt="Building Generative AI Services with FastAPI (O'Reilly)" width="400" src="/cover.png" />](https://www.amazon.com/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
+[<img alt="Building Generative AI Services with FastAPI (O'Reilly)" width="400" src="/book-cover.png" />](https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
 
 ### 🌱 Open-source projects
 
