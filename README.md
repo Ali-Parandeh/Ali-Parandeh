@@ -2,8 +2,8 @@
 
 Hello, I'm Ali Parandeh 👋.
 
-I'm a Chartered Software Engineer (CEng), Microsoft Azure and Google Cloud Certified Developer with 9 years of engineering consulting experience across different markets. 
-Currently I'm authoring a book on productising GenAI models (Building Generative AI Services with FastAPI, O'Reilly, Expected 2025) and head the engineering department of an established AI and data science consultancy based in London (Applied Data Science Partners).
+I'm a Chartered Software Engineer (CEng), Microsoft Azure and Google Cloud Certified Developer with 10+ years of engineering consulting experience across different markets. 
+I've also authored a book on productising GenAI models (Building Generative AI Services with FastAPI, O'Reilly, Expected 2025) and head the engineering department of an established AI and data science consultancy based in London (Applied Data Science Partners).
 
 I use data science and machine learning technologies to help clients make key decisions by developing data analytics and predictive solutions.
 
@@ -14,11 +14,11 @@ My interests change over time but at the moment they include AI development, ent
 ### 📚 Authoring O'Reilly book: Building Generative AI Services with FastAPI
 My book *Building Generative AI Services with FastAPI* will be published worldwide on **May 2025**.
 
-You can pre-order the book by clicking on the image below.
-
-Amazon US: [Link](https://www.amazon.com/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
+You can grab a book copy by clicking on the image below.
 
 Amazon UK: [Link](https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
+
+Amazon US: [Link](https://www.amazon.com/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
 
 Read online on O'Reilly: [Link](https://www.oreilly.com/library/view/building-generative-ai/9781098160296/)
 
@@ -27,6 +27,7 @@ Read online on O'Reilly: [Link](https://www.oreilly.com/library/view/building-ge
 🌍 Book Website: [Link](https://buildinggenai.com)
 
 [<img alt="Building Generative AI Services with FastAPI (O'Reilly)" width="400" src="/cover.png" />](https://www.amazon.com/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
+
 ### 🌱 Open-source projects
 
 I love Typescript and Python so most of my open-source projects are either in Python or Typescript frameworks.
