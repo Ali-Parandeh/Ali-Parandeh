@@ -3,7 +3,7 @@
 Hello, I'm Ali Parandeh 👋.
 
 I'm a Chartered Software Engineer (CEng), Microsoft Azure and Google Cloud Certified Developer with 10+ years of engineering consulting experience across different markets. 
-I've also authored a book on productising GenAI models (Building Generative AI Services with FastAPI, O'Reilly, Expected 2025) and head the engineering department of an established AI and data science consultancy based in London (Applied Data Science Partners).
+I've also authored a book on productising GenAI models (Building Generative AI Services with FastAPI, O'Reilly, Expected 2025) and worked as the head of engineering for an established AI and data science consultancy based in London.
 
 I use data science and machine learning technologies to help clients make key decisions by developing data analytics and predictive solutions.
 
