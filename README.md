@@ -26,6 +26,8 @@ Read online on O'Reilly: [Link](https://www.oreilly.com/library/view/building-ge
 
 🌍 Book Website: [Link](https://buildinggenai.com)
 
+🤖 Production Readiness Auditor (Grounded on my book) for your FastAPI+AI codebases: [Link](https://github.com/Ali-Parandeh/production-readiness-auditor)
+
 [<img alt="Building Generative AI Services with FastAPI (O'Reilly)" width="400" src="/book-cover.png" />](https://www.amazon.co.uk/Building-Generative-Services-Fastapi-Applications/dp/1098160304)
 
 ### 🌱 Open-source projects
